@@ -1,4 +1,3 @@
-# PREDICTING-ENERGY-EFFICIENCY-OF-BUILDINGS
 #  PREDICTING ENERGY EFFICIENCY OF BUILDINGS (Using Regression Models) - Project
 ### By: Ajibade Abdulquddus
 <img src='energy2.jpg' />
